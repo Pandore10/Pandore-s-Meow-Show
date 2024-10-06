@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pandore-s-Meow-Show/static/css/main.8c8d8000.css",
+    "main.js": "/Pandore-s-Meow-Show/static/js/main.76b6834d.js",
+    "static/js/453.1cdc041a.chunk.js": "/Pandore-s-Meow-Show/static/js/453.1cdc041a.chunk.js",
+    "static/media/logo.png": "/Pandore-s-Meow-Show/static/media/logo.f9379497333621365362.png",
+    "index.html": "/Pandore-s-Meow-Show/index.html",
+    "main.8c8d8000.css.map": "/Pandore-s-Meow-Show/static/css/main.8c8d8000.css.map",
+    "main.76b6834d.js.map": "/Pandore-s-Meow-Show/static/js/main.76b6834d.js.map",
+    "453.1cdc041a.chunk.js.map": "/Pandore-s-Meow-Show/static/js/453.1cdc041a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c8d8000.css",
+    "static/js/main.76b6834d.js"
+  ]
+}
